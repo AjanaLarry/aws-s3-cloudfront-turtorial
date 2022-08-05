@@ -1,7 +1,3 @@
-# aws-s3-cloudfront-turtorial
-
-I was recently tasked with deploying and hosting a Vue.js frontend application on AWS. The project required the use of HTTPS, a custom domain, a hosting service for the deployment files, and a content delivery network. So, I decided to share the process as a step-by-step tutorial, to help those who may have similar requirements.
-
 # Hosting a Vue.js Single Page Application (SPA) on AWS Simple Storage Service (S3)
 
 ![SPA Header 1.jpg](Hosting%20a%20Vue%20js%20Single%20Page%20Application%20(SPA)%20on%20%207bc622142ea64c2f8ef65477af4ab35a/SPA_Header_1.jpg)
